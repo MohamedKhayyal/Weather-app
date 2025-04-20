@@ -1,6 +1,5 @@
 import "./Weather.css";
 import search from "../assets/search.png";
-import weather from "../assets/clear.png";
 import humidity from "../assets/humidity.png";
 import wind from "../assets/wind.png";
 import { useState } from "react";
